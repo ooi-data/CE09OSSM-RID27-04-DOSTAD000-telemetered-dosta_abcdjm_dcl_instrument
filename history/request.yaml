@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE09OSSM-RID27-04-DOSTAD000-telemetered-dosta_abcdjm_dcl_instrument
+last_request: '2021-05-04T22:57:05.537874Z'
+response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-RID27-04-DOSTAD000-telemetered-dosta_abcdjm_dcl_instrument/main/history/response.json
+status: pending
