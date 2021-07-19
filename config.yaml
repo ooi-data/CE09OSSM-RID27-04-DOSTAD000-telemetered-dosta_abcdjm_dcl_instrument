@@ -1,7 +1,7 @@
 assigness: []
 harvest_options:
   path: s3://ooi-data
-  refresh: true
+  refresh: false
   test: false
 instrument: CE09OSSM-RID27-04-DOSTAD000
 stream:
